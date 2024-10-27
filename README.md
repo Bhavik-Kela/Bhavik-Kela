@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working on making projects that include HTML CSS and Javascript!<br>I'm currently learning javaScript
+As a passionate web developer, I thrive on transforming ideas into dynamic digital experiences. With a strong foundation in HTML, CSS, and JavaScript, I enjoy crafting responsive, user-friendly websites that not only look great but also function seamlessly.
+
+I am continually exploring new technologies and frameworks to enhance my skill set, from React. My goal is to create innovative solutions that meet user needs while pushing the boundaries of what's possible on the web.
 
 
 ## 🌐 Socials:
